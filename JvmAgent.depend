@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1401102482 source:e:\cworkspace\jvmagent\main.cpp
+	"main.h"
+
+1401102469 e:\cworkspace\jvmagent\main.h
+	<windows.h>
+	<string>
+	<cstring>
+	<iostream>
+	<list>
+	<map>
+	<set>
+	<stdlib.h>
+	"jvmti.h"
+	"jni_md.h"
+
+1363938633 e:\cworkspace\jvmagent\jvmti.h
+	"jni.h"
+
+1363938633 e:\cworkspace\jvmagent\jni.h
+	<stdio.h>
+	<stdarg.h>
+	"jni_md.h"
+
+1363938633 e:\cworkspace\jvmagent\jni_md.h
+
